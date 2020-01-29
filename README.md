@@ -1,4 +1,4 @@
-# Capstone
+# Optimal Location for Opening a Middle Eastern Restaurant
 
 ## Introduction
 
