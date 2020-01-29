@@ -8,7 +8,7 @@ Toronto: Ontario’s most cosmopolitan city, which is often referred to as ‘th
 
 List of neighborhoods in Toronto, Canada.
 Latitude and Longitude of these neighborhoods.
-Venue data related to Middle Eastern restaurants. 
+Venue data related to Middle Eastern restaurants. Venue data related to Middle eastern restaurants Using Foursquare API.
 
 ## Methodology
 
