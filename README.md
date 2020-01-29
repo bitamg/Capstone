@@ -35,3 +35,6 @@ The results are visualized in the above map with Cluster 0 in red color, Cluster
 ## Recommendations
 
 Most of Mimddle Eatern restaurants are in Cluster 2 which is around Dovercourt Village, and lowest (close to zero) in Cluster.It seems Cluster 1 might be a good location as there is only one Middle Eastern restaurants.
+
+all the codes can be found here
+https://nbviewer.jupyter.org/github/bitamg/Capstone/blob/master/Toronto3%20.ipynb
