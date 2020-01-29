@@ -24,7 +24,7 @@ Results
 Based on the results (the concentration of clusters), I will be able to recommend the ideal location to open the restaurant.
 
 The results from k-means clustering show that we can categorize Toronto neighborhoods into 3 clusters based on how many Thai restaurants are in each neighborhood:
-map_clusters.save('map_clusters.html')
+
 Cluster 0: Neighborhoods with little or no Middle Eastern restaurants
 Cluster 1: Neighborhoods with no Middle Eastern restaurants
 Cluster 2: Neighborhoods with high number of Middle Eastern restaurants
