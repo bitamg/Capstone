@@ -16,8 +16,9 @@ I got the list of neighborhoods in Toronto, Canada from wikipedia page (“https
 
 I got the coordinates using the csv file provided by IBM team. In the next step, I used Foursquare API to get the list of top 100 venues within 500 meters radius. Then, I analyze each neighborhood by grouping the rows by neighborhood and taking the mean on the frequency of occurrence of each venue category, to prepare clustering to be done later.
 
-Then I performed the clustering method by using k-means clustering.I have clustered the neighborhoods in Toronto into 3 clusters based on their frequency of occurrence for “”. 
-Results
+Then I performed the clustering method by using k-means clustering.I have clustered the neighborhoods in Toronto into 3 clusters based on their frequency of occurrence for “Middle Eastern Restuarnts”. 
+
+## Results
 
 ### Clusters
 
